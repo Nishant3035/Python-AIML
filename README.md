@@ -17,3 +17,28 @@ Phase 2 (Data Science):  ░░░░░░░░░░ 0%
 Phase 3 (ML):            ░░░░░░░░░░ 0%
 Phase 4 (Deep Learning): ░░░░░░░░░░ 0%
 DSA Problems:            ░░░░░░░░░░ 0%
+
+
+## 📊 Current Progress
+
+**Status:** 🔄 In Progress  
+**Start Date:** 20-Apr-2026  
+**Last Updated:** 24-Apr-2026  
+
+### Progress Tracker
+Phase 1 (Python):        ████████░░ 60% (Part 1-3 Complete)
+Phase 2 (Data Science):  ░░░░░░░░░░ 0%
+Phase 3 (ML):            ░░░░░░░░░░ 0%
+Phase 4 (Deep Learning): ░░░░░░░░░░ 0%
+DSA Problems:            ░░░░░░░░░░ 0%
+
+## 🎯 Learning Goals
+
+- [x] Phase 1 Part 1: Variables, Data Types, Operators
+- [x] Phase 1 Part 2: Loops & Conditionals
+- [x] Phase 1 Part 3: Collections (Strings, Lists, Tuples, Dicts, Sets)
+- [ ] Phase 1 Part 4: OOP (Classes, Inheritance, Polymorphism)
+- [ ] Phase 1 Part 5: File I/O & Exception Handling
+- [ ] Phase 2: Data Science
+- [ ] Phase 3: Machine Learning
+- [ ] Phase 4: Deep Learning & GenAI
