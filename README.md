@@ -42,3 +42,25 @@ DSA Problems:            ░░░░░░░░░░ 0%
 - [ ] Phase 2: Data Science
 - [ ] Phase 3: Machine Learning
 - [ ] Phase 4: Deep Learning & GenAI
+
+
+## 📊 Current Progress
+
+**Status:** 🔄 In Progress (Phase 1: 76% Complete)  
+**Start Date:** 20-Apr-2026  
+**Last Updated:** 25-Apr-2026  
+**Target Completion:** 30-Sep-2026  
+
+### Progress Tracker
+Phase 1 (Python):        ███████░░░ 76% (Part 4: Videos 1-13/17)
+Phase 2 (Data Science):  ░░░░░░░░░░ 0%
+Phase 3 (ML):            ░░░░░░░░░░ 0%
+Phase 4 (Deep Learning): ░░░░░░░░░░ 0%
+DSA Problems:            ░░░░░░░░░░ 0% (0/80)
+
+## 🎯 Learning Goals
+
+- [x] Phase 1 Part 1: Variables, Data Types, Operators
+- [x] Phase 1 Part 2: Loops & Conditionals
+- [x] Phase 1 Part 3: Collections (Strings, Lists, Tuples, Dicts, Sets)
+- [x] Phase 1 Part 4: OOP (Classes, Inheritance, Polymorphism)-14-16 remaining
