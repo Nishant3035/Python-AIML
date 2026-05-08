@@ -1,2 +1,3 @@
-# Python-AIML
-My Python AI/ML journey - Basic to Advance
+# Python AIML
+
+Artificial Intelligence and Machine Learning in Python
